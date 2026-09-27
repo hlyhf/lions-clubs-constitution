@@ -11,7 +11,7 @@
 
 ## 这是什么
 
-`lions-cls-constitution` 是一个可移植的 **Agent Skill**（兼容 Anthropic Agent Skills 标准格式），把中国狮子联会的六部官方文件（"基本法"）结构化为 AI 可直接引用的知识库与工作流：
+`lions-clubs-constitution` 是一个可移植的 **Agent Skill**（兼容 Anthropic Agent Skills 标准格式），把中国狮子联会的六部官方文件（"基本法"）结构化为 AI 可直接引用的知识库与工作流：
 
 | 官方文件 | 版本 | 在本技能中 |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ python3 scripts/search_clauses.py 标识 会员行为准则
 
 | Agent / 平台 | 调用方式 | 加载入口 | 备注 |
 | --- | --- | --- | --- |
-| **Deepseek Harness（DSH）** | 放入会话技能目录，或 `skill` 工具加载 `lions-cls-constitution` | `SKILL.md` | 命中意图自动加载 |
+| **Deepseek Harness（DSH）** | 放入会话技能目录，或 `skill` 工具加载 `lions-clubs-constitution` | `SKILL.md` | 命中意图自动加载 |
 | **OpenClaw** | 作为 Agent Skill / 知识包挂载 | `SKILL.md` | 支持 SKILL.md 标准 |
 | **Hermes** | 作为技能目录或 RAG 知识库加入 | `SKILL.md` + `references/` | 建议用 `search_clauses.py` |
 | **WorkBuddy** | 作为工作流技能/知识源导入 | `SKILL.md` | 模板见 `templates.md` |
