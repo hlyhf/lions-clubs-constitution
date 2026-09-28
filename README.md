@@ -1,4 +1,4 @@
-# 狮子会 Skill（lions-clubs-constitution）
+# 中国狮子联会官方基本法 Skill（lions-clubs-constitution）
 
 > **GitHub 仓库描述（Description）**：中国狮子联会官方基本法 Agent 技能（多语言·可移植）：依据联会章程、工作规则、财务管理制度、会费收取办法、会员行为准则、视觉形象识别系统手册六部官方文件编制，提供制度查询、合规审查、会费解答、VI规范、文案起草。覆盖18种语言（港澳台/日韩/东南亚/中亚/欧洲/非洲/美洲/俄罗斯），适配 DSH/OpenClaw/Hermes/WorkBuddy/豆包工作/千问工作等平台。制作者：精卫服务队 于海峰 狮兄。
 >
@@ -122,3 +122,42 @@ python3 scripts/search_clauses.py 标识 会员行为准则
 ---
 
 **制作者：精卫服务队 于海峰 狮兄 ｜ 版本 v1.0.0 ｜ 创建日期 2025-09-28**
+
+
+---
+
+## 许可证（原 LICENSE 内容，因平台不允许无扩展名文件而并入此处）
+
+MIT License
+
+Copyright (c) 2025 精卫服务队 于海峰 (Jingwei Lions Club, Yu Haifeng)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+Special Notice (特别声明):
+The official documents of the China Council of Lions Clubs (中国狮子联会)
+included in this skill — including its Charter (章程), Work Rules (工作规则),
+Financial Management System (财务管理制度), Membership Fee Collection Measures
+(会费收取办法), Member Code of Conduct (会员行为准则), and Visual Identity
+System manuals (视觉形象识别系统使用手册) — remain the property of the China
+Council of Lions Clubs. They are included for internal learning and compliance
+assistance only. In case of any discrepancy, the official original documents
+prevail. The Lions emblem and visual identity may not be used for commercial
+purposes.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
