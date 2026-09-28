@@ -1,4 +1,4 @@
-# 中国狮子联会官方基本法 Skill（lions-clubs-constitution）
+# 狮子会 Skill（lions-clubs-constitution）
 
 > **GitHub 仓库描述（Description）**：中国狮子联会官方基本法 Agent 技能（多语言·可移植）：依据联会章程、工作规则、财务管理制度、会费收取办法、会员行为准则、视觉形象识别系统手册六部官方文件编制，提供制度查询、合规审查、会费解答、VI规范、文案起草。覆盖18种语言（港澳台/日韩/东南亚/中亚/欧洲/非洲/美洲/俄罗斯），适配 DSH/OpenClaw/Hermes/WorkBuddy/豆包工作/千问工作等平台。制作者：精卫服务队 于海峰 狮兄。
 >
